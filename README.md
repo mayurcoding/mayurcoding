@@ -13,7 +13,5 @@
 - 🏢 Backend: Node.js, Express.js
 - 📦 Databases: MongoDB, MySQL
 
-- ![Spotify Now Playing](https://novatorem-github-readme.vercel.app/api/spotify)
-
 
 
