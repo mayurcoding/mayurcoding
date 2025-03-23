@@ -11,3 +11,6 @@
 - 🌐 Frontend: React.js, HTML, CSS, Tailwind
 - 🏢 Backend: Node.js, Express.js
 - 📦 Databases: MongoDB, MySQL
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
