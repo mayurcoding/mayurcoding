@@ -12,10 +12,5 @@
 - 🌐 Frontend: React.js, HTML, CSS, Tailwind
 - 🏢 Backend: Node.js, Express.js
 - 📦 Databases: MongoDB, MySQL
-- 
-- ### 📫 Connect with me:
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[your-profile](https://www.linkedin.com/in/mayurrastogi46/)/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox)](https://yourportfolio.com/)
 
 
