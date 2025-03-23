@@ -1,5 +1,5 @@
 # Hi there, I'm Mayur Rastogi 👋
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20%">
 
 ### 🚀 About Me
 - 🎓 Final Year CSE Student
