@@ -12,9 +12,13 @@
 - 🌐 Frontend: React.js, HTML, CSS, Tailwind
 - 🏢 Backend: Node.js, Express.js
 - 📦 Databases: MongoDB, MySQL
+- 
+- ### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox)](https://yourportfolio.com/)
+
 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 
