@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=1000&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Open+Source+Contributor;Always+learning!)](https://git.io/typing-svg)
 
-# Hi there, I'm Mayur Rastogi 👋
+# Hi there, I'm Er. Mayur Rastogi 👋
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="20%">
 
 ### 🚀 About Me
