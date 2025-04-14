@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - 🎓 Final Year CSE Student
 - 🔭 Working on MERN Stack Projects
-- 🌱 Learning coding environments
 - 📫 Reach me at: mayurrastogi46@gmail.com
 
 ### 🛠 Tech Stack
