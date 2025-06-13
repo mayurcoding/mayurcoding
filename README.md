@@ -5,7 +5,7 @@
 
 ### 🛠 Tech Stack
 - 💻 Languages: JavaScript, Java, C++, 
-- 🌐 Frontend: React.js, HTML, CSS, Tailwind
+- 🌐 Frontend: React.js, HTML, CSS, Tailwind, Bootstrap, Dom Manipulation
 - 🏢 Backend: Node.js, Express.js
 - 📦 Databases: MongoDB, MySQL
 
