@@ -10,7 +10,7 @@
 - 📦 Databases: MongoDB, MySQL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git," />
 </p>
 
 
