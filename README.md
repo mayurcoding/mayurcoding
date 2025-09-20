@@ -10,8 +10,6 @@
 **mayurcoding/mayurcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width="300px" alt="Coding GIF" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
-
 <h2 id="about-me">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
   <em><strong>About me</strong></em>
@@ -37,7 +35,7 @@ My expertise includes JavaScript, React.js, Node.js, Express.js, MongoDB, and I 
 <li>👯 I’m looking forward to collaborate on open source and SaaS-based projects.</li>
 <li>✔ Ask me about anything related to MERN Stack or Full Stack Development — I’d be happy to help! 😉</li>
 <li>Outside tech, I love 🎵 listening to music, ✈️ traveling, 📚 reading, and exploring nature 🌴.</li>
-<li>📫 Reach out to me at: <a href="mailto:mayurrastogi681@gmail.com">mayurrastogi681@gmail.com</a></li>
+<li>📫 Reach out to me at: <a href="mailto:mayurrastogi46@gmail.com">mayurrastogi46@gmail.com</a></li>
 </ul>
 
 <h2>⚡ Tech Stack</h2>
