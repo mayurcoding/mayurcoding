@@ -1,8 +1,6 @@
 <h1 id="hi-there--mayur-here">Hi there 👋, Mayur Rastogi here.</h1>
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mayurcoding.repoName" alt="Visitor"> 
   <a href="https://github.com/mayurcoding?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayurcoding.svg?style=social&label=Follow" alt="GitHub followers">
   </a><br>
 </p>
 
